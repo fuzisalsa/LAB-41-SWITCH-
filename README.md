@@ -8,11 +8,11 @@ Berikut adalah daftar Switch chip dan fitur yang dimiliki:
 
 ![m](b1.PNG)
 
+![M](M3.PNG)
+
 Berikut daftar Routerboard series dengan Switch chip-nya:
 
 ![m](b2.PNG)
-
-![M](M3.PNG)
 
 # konfigurasi vlan di routerboard menggunakan switch chipset (hardware)  
 
