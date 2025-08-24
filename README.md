@@ -86,3 +86,4 @@ Meningkatkan kinerja jaringan karena meminimalkan beban kerja CPU Routerboard. L
 
 # sumber 
 https://youtu.be/Cu_0XQO8MG0?si=amxpGqZmo01I-fL_
+https://citraweb.com/artikel_lihat.php?id=156
